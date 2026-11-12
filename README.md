@@ -1,0 +1,2 @@
+# MFCounter
+Polityka prywatności
